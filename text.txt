@@ -1,0 +1,7 @@
+1. pertama kali bikin prject.
+git init
+git add .
+git commit -m "Perubahan terbaru"
+git push origin master
+
+
